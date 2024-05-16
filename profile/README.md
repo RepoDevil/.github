@@ -1,6 +1,6 @@
 ![RepoDevil](profile/screenshot.png)
 
-I have been an Android developer since Android became a platform. I developed custom ROMs for the G1 and was responsible for many the scripts and toolkits that made it possible to port custom ROMs between early Android devices. I provided the camera HAL for the HTC Thunderbolt to the custom ROM community and developed the first custom kernel for the Note 4. I made one of the first custom kernels for the HTC Evo 3D and all of the Nvidia Shield devices. I have built drivers that were carried on all the way into the Note 10.
+I have been an Android developer since Android became a platform. I developed custom ROMs for the G1 and was responsible for many scripts and toolkits that made it possible to port custom ROMs between early Android devices. I provided the camera HAL for the HTC Thunderbolt to the custom ROM community and developed the first custom kernel for the Note 4. I made one of the first custom kernels for the HTC Evo 3D and all of the Nvidia Shield devices. I have built drivers that were carried on all the way into the Note 10.
 
 I spent a decent amount of time as one of the reicast team members, designing both significant portions of the UI and hardware interface code. While most of my work was on the frontend, I provided the native backend to support the Xperia Play.
 
