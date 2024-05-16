@@ -4,6 +4,6 @@ I have been an Android developer since Android became a platform. I developed cu
 
 I spent a decent amount of time as one of the reicast team members, designing both significant portions of the UI and hardware interface code. While most of my work was on the frontend, I provided the native backend to support the Xperia Play.
 
-I have published multiple apps on Google Play, the most recent of which are TagMo and SamSprung, which also happens to be one of the only two cover screen launchers currently available. The Flip series specifically disables cover screen launchers and blocks keyboards. I built both a launcher and keyboard that are able to function normally, while bypassing the restrictions that prevent normal usage.
+I have published multiple apps on Google Play, the most recent of which are TagMo and SamSprung, which also happens to be one of the only two cover screen launchers currently available. The Flip series specifically disables cover screen launchers and blocks keyboards. I built both a launcher and keyboard that are able to function normally, bypassing the restrictions that prevent them.
 
 I have two degrees. One is a bachelor's in mobile development. The other is a master's in mobile game development. My thesis projects were a fully-functional 3D mobile virtual assistant, an endless sidescroller that integrated with the user's music library, and an action game that had support for DLC, variable maps, and multiple modes, including driving and flying.
