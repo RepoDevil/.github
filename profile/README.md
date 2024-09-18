@@ -1,1 +1,1 @@
-[![RepoDevil](profile/screenshot.png)](https://demonslayer-anime.com/)
+[![RepoDevil](screenshot.png)](https://demonslayer-anime.com/)
